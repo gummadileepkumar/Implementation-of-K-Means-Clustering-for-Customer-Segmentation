@@ -99,34 +99,41 @@ plt.title("Customer Segmets")
 
 ### data.head() :
 
-![image](https://github.com/Abrinnisha6/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118889454/bae75e26-4d77-42d2-8c96-821e1c12526f)
+![ml_8 1](https://github.com/gummadileepkumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707761/c4820a38-925c-47ef-b34f-756b01b241d3)
+
 
 ### data.info() :
 
-![image](https://github.com/Abrinnisha6/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118889454/27f98e60-678b-4c6b-91e8-af987144f8aa)
+![ml_8 2](https://github.com/gummadileepkumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707761/ceacc990-5b20-4ff0-a017-f80ad45979d4)
 
 
 ### Null Values :
 
-![image](https://github.com/Abrinnisha6/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118889454/eab8a0ef-7ccc-4c14-9762-108c6069d45e)
+![ml_8 3](https://github.com/gummadileepkumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707761/5eff47ae-bb38-4b12-acbf-1237b3fa6398)
+
+
 
 ### Elbow Graph :
 
-![image](https://github.com/Abrinnisha6/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118889454/034a80f5-5ade-49f2-bdd0-7b32ae1aba22)
+![ml_8 4](https://github.com/gummadileepkumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707761/559f36ff-3ef9-48e8-83ce-acfd5e065659)
+
 
 
 ### K-Means Cluster Formation :
 
-![image](https://github.com/Abrinnisha6/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118889454/dba43779-8573-403a-8f29-40155432d81f)
+
+![ml_8 5](https://github.com/gummadileepkumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707761/ad8a5811-4574-4b5f-a261-f330ca53d834)
 
  
 ### Predicted Value :
+![ml_8 6](https://github.com/gummadileepkumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707761/a6ee42dc-48d1-45a0-af04-24b278797196)
 
-![image](https://github.com/Abrinnisha6/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118889454/d5091df5-086c-441f-9b6c-89992c8d8a64)
+
 
 ### Final Graph :
 
-![image](https://github.com/Abrinnisha6/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118889454/82be4a8d-d8d6-4c0e-a4fe-86336dd60ffd)
+
+![ml_8 7](https://github.com/gummadileepkumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707761/623593d1-b1b6-47df-8261-984bdbf94714)
 
 
 ## Result :
